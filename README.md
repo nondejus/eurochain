@@ -5,6 +5,8 @@
 
 A EUROtoken is a token whose value is tied to being exactly 1 EURO
 
+[Explanation of how the token is tied to the euro.](./docs/concept.md)
+
 ## devnet
 
 You can run the chain easily on your computer to play with the software already.
@@ -117,5 +119,3 @@ Please consult the `--help` menu of the relevant commands using the following co
 * Rob Van Mieghem ([@robvanmieghem](https://github.com/robvanmieghem))
 * Lee Smet ([@leesmet](https://github.com/leesmet))
 * Glen De Cauwsemaecker ([@glendc](https://github.com/glendc))
- 
-[Explanation of how the token is tied to the euro.](./docs/concept.md)
