@@ -1,4 +1,4 @@
-faucet.testnet.eurochain.nbh-digital.com {
+faucet.testnet.euroflow.io {
     proxy / localhost:2020 {
         transparent
     }

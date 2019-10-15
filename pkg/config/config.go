@@ -195,11 +195,11 @@ func GetTestnetGenesis() types.ChainConstants {
 
 func GetTestnetBootstrapPeers() []modules.NetAddress {
 	return []modules.NetAddress{
-		"bootstrap1.testnet.eurochain.nbh-digital.com:22112",
-		"bootstrap2.testnet.eurochain.nbh-digital.com:22112",
-		"bootstrap3.testnet.eurochain.nbh-digital.com:22112",
-		"bootstrap4.testnet.eurochain.nbh-digital.com:22112",
-		"bootstrap5.testnet.eurochain.nbh-digital.com:22112",
+		"bootstrap1.testnet.euroflow.io:22112",
+		"bootstrap2.testnet.euroflow.io:22112",
+		"bootstrap3.testnet.euroflow.io:22112",
+		"bootstrap4.testnet.euroflow.io:22112",
+		"bootstrap5.testnet.euroflow.io:22112",
 	}
 }
 
